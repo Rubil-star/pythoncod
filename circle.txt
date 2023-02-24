@@ -1,0 +1,5 @@
+#area of a circle
+def area(r,pi=3.142)
+    x=pi*r*r
+   print("the area of a circle",x)
+area(7)
